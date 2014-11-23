@@ -12,6 +12,18 @@ var cases = [
 exports['info cases'] = function (test) {
     var result = analyzer.info(cases, 2);
     
+    console.dir(result);
     test.ok(result);
     test.ok(result > 0);
 };
+
+exports['info subcases'] = function (test) {
+    var result = analyzer.infox(cases, 2);
+
+    console.dir(result);
+    test.ok(result);
+    test.equal(Object.keys(result).length, 2);
+    test.ok(result[0] >= 0);
+    test.ok(result[1] >= 0);
+};
+
