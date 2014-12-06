@@ -33,6 +33,10 @@ npm test
 
 TBD
 
+## Versions
+
+- 0.0.1 Published
+
 ## License
 
 MIT

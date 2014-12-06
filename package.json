@@ -1,7 +1,7 @@
 { "name": "simpledt"
 , "description": "Decision Tree"
 , "keywords": [ "decisiontree", "machinelearning", "browser", "nodejs" ]
-, "version": "0.0.1alpha"
+, "version": "0.0.1"
 , "author": "Angel 'Java' Lopez <webmaster@ajlopez.com> (http://www.ajlopez.com)"
 , "repository": { "type": "git", "url": "git://github.com/ajlopez/SimpleDT.git" }
 , "main": "./lib/simpledt.js"
