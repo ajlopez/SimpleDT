@@ -1,0 +1,1837 @@
+{
+    "attribute": "0",
+    "values": {
+        "A11": {
+            "attribute": "2",
+            "values": {
+                "A34": {
+                    "attribute": "3",
+                    "values": {
+                        "A43": {
+                            "value": 1
+                        },
+                        "A40": {
+                            "attribute": "1",
+                            "values": {
+                                "<= 11": {
+                                    "value": 1
+                                },
+                                "> 11": {
+                                    "attribute": "9",
+                                    "values": {
+                                        "A101": {
+                                            "attribute": "6",
+                                            "values": {
+                                                "A75": {
+                                                    "attribute": "8",
+                                                    "values": {
+                                                        "A93": {
+                                                            "attribute": "11",
+                                                            "values": {
+                                                                "A123": {
+                                                                    "value": 2
+                                                                },
+                                                                "A121": {
+                                                                    "value": 1
+                                                                },
+                                                                "A124": {
+                                                                    "value": 1
+                                                                },
+                                                                "A122": {
+                                                                    "value": 2
+                                                                }
+                                                            }
+                                                        },
+                                                        "A94": {
+                                                            "value": 1
+                                                        },
+                                                        "A92": {
+                                                            "value": 2
+                                                        }
+                                                    }
+                                                },
+                                                "A73": {
+                                                    "value": 1
+                                                }
+                                            }
+                                        },
+                                        "A102": {
+                                            "value": 2
+                                        },
+                                        "A103": {
+                                            "value": 2
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "A41": {
+                            "attribute": "1",
+                            "values": {
+                                "<= 30": {
+                                    "value": 1
+                                },
+                                "> 30": {
+                                    "value": 2
+                                }
+                            }
+                        },
+                        "A42": {
+                            "attribute": "4",
+                            "values": {
+                                "<= 1872": {
+                                    "value": 1
+                                },
+                                "> 1872": {
+                                    "attribute": "11",
+                                    "values": {
+                                        "A124": {
+                                            "value": 2
+                                        },
+                                        "A121": {
+                                            "attribute": "5",
+                                            "values": {
+                                                "A65": {
+                                                    "value": 1
+                                                },
+                                                "A61": {
+                                                    "value": 2
+                                                }
+                                            }
+                                        },
+                                        "A123": {
+                                            "value": 2
+                                        },
+                                        "A122": {
+                                            "attribute": "1",
+                                            "values": {
+                                                "<= 12": {
+                                                    "value": 2
+                                                },
+                                                "> 12": {
+                                                    "value": 1
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "A410": {
+                            "value": 1
+                        },
+                        "A45": {
+                            "attribute": "4",
+                            "values": {
+                                "<= 1190": {
+                                    "value": 2
+                                },
+                                "> 1190": {
+                                    "value": 1
+                                }
+                            }
+                        },
+                        "A49": {
+                            "value": 1
+                        },
+                        "A46": {
+                            "value": 2
+                        }
+                    }
+                },
+                "A32": {
+                    "attribute": "3",
+                    "values": {
+                        "A42": {
+                            "attribute": "1",
+                            "values": {
+                                "<= 15": {
+                                    "attribute": "11",
+                                    "values": {
+                                        "A121": {
+                                            "value": 1
+                                        },
+                                        "A123": {
+                                            "attribute": "4",
+                                            "values": {
+                                                "<= 1282": {
+                                                    "value": 2
+                                                },
+                                                "> 1282": {
+                                                    "value": 1
+                                                }
+                                            }
+                                        },
+                                        "A124": {
+                                            "attribute": "4",
+                                            "values": {
+                                                "<= 2578": {
+                                                    "value": 1
+                                                },
+                                                "> 2578": {
+                                                    "value": 2
+                                                }
+                                            }
+                                        },
+                                        "A122": {
+                                            "value": 1
+                                        }
+                                    }
+                                },
+                                "> 15": {
+                                    "attribute": "4",
+                                    "values": {
+                                        "<= 3446": {
+                                            "attribute": "6",
+                                            "values": {
+                                                "A73": {
+                                                    "attribute": "12",
+                                                    "values": {
+                                                        "<= 22": {
+                                                            "value": 2
+                                                        },
+                                                        "> 22": {
+                                                            "value": 1
+                                                        }
+                                                    }
+                                                },
+                                                "A71": {
+                                                    "value": 2
+                                                },
+                                                "A72": {
+                                                    "attribute": "8",
+                                                    "values": {
+                                                        "A93": {
+                                                            "value": 1
+                                                        },
+                                                        "A92": {
+                                                            "value": 2
+                                                        },
+                                                        "A91": {
+                                                            "value": 2
+                                                        }
+                                                    }
+                                                },
+                                                "A74": {
+                                                    "attribute": "1",
+                                                    "values": {
+                                                        "<= 20": {
+                                                            "value": 1
+                                                        },
+                                                        "> 20": {
+                                                            "value": 2
+                                                        }
+                                                    }
+                                                },
+                                                "A75": {
+                                                    "value": 2
+                                                }
+                                            }
+                                        },
+                                        "> 3446": {
+                                            "attribute": "4",
+                                            "values": {
+                                                "<= 4020": {
+                                                    "value": 1
+                                                },
+                                                "> 4020": {
+                                                    "attribute": "4",
+                                                    "values": {
+                                                        "<= 6350": {
+                                                            "attribute": "12",
+                                                            "values": {
+                                                                "<= 28": {
+                                                                    "value": 1
+                                                                },
+                                                                "> 28": {
+                                                                    "value": 2
+                                                                }
+                                                            }
+                                                        },
+                                                        "> 6350": {
+                                                            "value": 1
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "A49": {
+                            "attribute": "1",
+                            "values": {
+                                "<= 24": {
+                                    "value": 1
+                                },
+                                "> 24": {
+                                    "value": 2
+                                }
+                            }
+                        },
+                        "A40": {
+                            "attribute": "5",
+                            "values": {
+                                "A61": {
+                                    "attribute": "6",
+                                    "values": {
+                                        "A73": {
+                                            "attribute": "10",
+                                            "values": {
+                                                "<= 2": {
+                                                    "value": 2
+                                                },
+                                                "> 2": {
+                                                    "attribute": "1",
+                                                    "values": {
+                                                        "<= 9": {
+                                                            "value": 2
+                                                        },
+                                                        "> 9": {
+                                                            "value": 1
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "A75": {
+                                            "value": 2
+                                        },
+                                        "A72": {
+                                            "attribute": "12",
+                                            "values": {
+                                                "<= 34": {
+                                                    "value": 2
+                                                },
+                                                "> 34": {
+                                                    "attribute": "1",
+                                                    "values": {
+                                                        "<= 12": {
+                                                            "attribute": "1",
+                                                            "values": {
+                                                                "<= 6": {
+                                                                    "value": 1
+                                                                },
+                                                                "> 6": {
+                                                                    "value": 2
+                                                                }
+                                                            }
+                                                        },
+                                                        "> 12": {
+                                                            "value": 1
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "A74": {
+                                            "attribute": "13",
+                                            "values": {
+                                                "A141": {
+                                                    "value": 1
+                                                },
+                                                "A143": {
+                                                    "value": 2
+                                                }
+                                            }
+                                        },
+                                        "A71": {
+                                            "value": 1
+                                        }
+                                    }
+                                },
+                                "A62": {
+                                    "value": 1
+                                },
+                                "A65": {
+                                    "attribute": "16",
+                                    "values": {
+                                        "A173": {
+                                            "value": 2
+                                        },
+                                        "A174": {
+                                            "value": 1
+                                        },
+                                        "A172": {
+                                            "value": 1
+                                        }
+                                    }
+                                },
+                                "A64": {
+                                    "value": 1
+                                }
+                            }
+                        },
+                        "A43": {
+                            "attribute": "1",
+                            "values": {
+                                "<= 30": {
+                                    "attribute": "5",
+                                    "values": {
+                                        "A62": {
+                                            "value": 2
+                                        },
+                                        "A63": {
+                                            "value": 1
+                                        },
+                                        "A61": {
+                                            "attribute": "15",
+                                            "values": {
+                                                "<= 1": {
+                                                    "attribute": "6",
+                                                    "values": {
+                                                        "A75": {
+                                                            "attribute": "4",
+                                                            "values": {
+                                                                "<= 709": {
+                                                                    "value": 2
+                                                                },
+                                                                "> 709": {
+                                                                    "value": 1
+                                                                }
+                                                            }
+                                                        },
+                                                        "A73": {
+                                                            "attribute": "1",
+                                                            "values": {
+                                                                "<= 12": {
+                                                                    "value": 1
+                                                                },
+                                                                "> 12": {
+                                                                    "attribute": "4",
+                                                                    "values": {
+                                                                        "<= 3190": {
+                                                                            "value": 2
+                                                                        },
+                                                                        "> 3190": {
+                                                                            "value": 1
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        },
+                                                        "A71": {
+                                                            "value": 2
+                                                        },
+                                                        "A72": {
+                                                            "attribute": "1",
+                                                            "values": {
+                                                                "<= 21": {
+                                                                    "attribute": "1",
+                                                                    "values": {
+                                                                        "<= 9": {
+                                                                            "value": 2
+                                                                        },
+                                                                        "> 9": {
+                                                                            "value": 1
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "> 21": {
+                                                                    "value": 2
+                                                                }
+                                                            }
+                                                        },
+                                                        "A74": {
+                                                            "value": 1
+                                                        }
+                                                    }
+                                                },
+                                                "> 1": {
+                                                    "value": 2
+                                                }
+                                            }
+                                        },
+                                        "A64": {
+                                            "value": 1
+                                        },
+                                        "A65": {
+                                            "value": 1
+                                        }
+                                    }
+                                },
+                                "> 30": {
+                                    "value": 2
+                                }
+                            }
+                        },
+                        "A41": {
+                            "attribute": "4",
+                            "values": {
+                                "<= 6579": {
+                                    "attribute": "1",
+                                    "values": {
+                                        "<= 12": {
+                                            "attribute": "1",
+                                            "values": {
+                                                "<= 6": {
+                                                    "value": 1
+                                                },
+                                                "> 6": {
+                                                    "value": 2
+                                                }
+                                            }
+                                        },
+                                        "> 12": {
+                                            "value": 1
+                                        }
+                                    }
+                                },
+                                "> 6579": {
+                                    "value": 2
+                                }
+                            }
+                        },
+                        "A46": {
+                            "attribute": "6",
+                            "values": {
+                                "A75": {
+                                    "value": 2
+                                },
+                                "A73": {
+                                    "attribute": "4",
+                                    "values": {
+                                        "<= 684": {
+                                            "value": 2
+                                        },
+                                        "> 684": {
+                                            "value": 1
+                                        }
+                                    }
+                                },
+                                "A72": {
+                                    "value": 2
+                                },
+                                "A71": {
+                                    "value": 2
+                                },
+                                "A74": {
+                                    "value": 1
+                                }
+                            }
+                        },
+                        "A410": {
+                            "value": 1
+                        },
+                        "A48": {
+                            "value": 2
+                        },
+                        "A45": {
+                            "value": 2
+                        },
+                        "A44": {
+                            "attribute": "1",
+                            "values": {
+                                "<= 6": {
+                                    "value": 1
+                                },
+                                "> 6": {
+                                    "value": 2
+                                }
+                            }
+                        }
+                    }
+                },
+                "A33": {
+                    "attribute": "1",
+                    "values": {
+                        "<= 18": {
+                            "value": 1
+                        },
+                        "> 18": {
+                            "value": 2
+                        }
+                    }
+                },
+                "A30": {
+                    "attribute": "10",
+                    "values": {
+                        "<= 3": {
+                            "attribute": "1",
+                            "values": {
+                                "<= 15": {
+                                    "value": 2
+                                },
+                                "> 15": {
+                                    "value": 1
+                                }
+                            }
+                        },
+                        "> 3": {
+                            "value": 2
+                        }
+                    }
+                },
+                "A31": {
+                    "attribute": "12",
+                    "values": {
+                        "<= 22": {
+                            "value": 1
+                        },
+                        "> 22": {
+                            "attribute": "3",
+                            "values": {
+                                "A48": {
+                                    "value": 1
+                                },
+                                "A40": {
+                                    "attribute": "4",
+                                    "values": {
+                                        "<= 1647": {
+                                            "value": 2
+                                        },
+                                        "> 1647": {
+                                            "value": 1
+                                        }
+                                    }
+                                },
+                                "A43": {
+                                    "attribute": "6",
+                                    "values": {
+                                        "A73": {
+                                            "value": 2
+                                        },
+                                        "A74": {
+                                            "value": 2
+                                        },
+                                        "A72": {
+                                            "value": 1
+                                        }
+                                    }
+                                },
+                                "A42": {
+                                    "value": 2
+                                },
+                                "A49": {
+                                    "value": 2
+                                },
+                                "A410": {
+                                    "value": 2
+                                },
+                                "A46": {
+                                    "value": 2
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "A12": {
+            "attribute": "4",
+            "values": {
+                "<= 12204": {
+                    "attribute": "5",
+                    "values": {
+                        "A61": {
+                            "attribute": "1",
+                            "values": {
+                                "<= 21": {
+                                    "attribute": "3",
+                                    "values": {
+                                        "A40": {
+                                            "attribute": "6",
+                                            "values": {
+                                                "A72": {
+                                                    "attribute": "2",
+                                                    "values": {
+                                                        "A32": {
+                                                            "value": 2
+                                                        },
+                                                        "A34": {
+                                                            "value": 1
+                                                        },
+                                                        "A30": {
+                                                            "value": 2
+                                                        }
+                                                    }
+                                                },
+                                                "A74": {
+                                                    "attribute": "4",
+                                                    "values": {
+                                                        "<= 685": {
+                                                            "value": 2
+                                                        },
+                                                        "> 685": {
+                                                            "value": 1
+                                                        }
+                                                    }
+                                                },
+                                                "A71": {
+                                                    "attribute": "1",
+                                                    "values": {
+                                                        "<= 6": {
+                                                            "value": 2
+                                                        },
+                                                        "> 6": {
+                                                            "value": 1
+                                                        }
+                                                    }
+                                                },
+                                                "A75": {
+                                                    "value": 2
+                                                },
+                                                "A73": {
+                                                    "value": 1
+                                                }
+                                            }
+                                        },
+                                        "A43": {
+                                            "attribute": "11",
+                                            "values": {
+                                                "A123": {
+                                                    "attribute": "1",
+                                                    "values": {
+                                                        "<= 6": {
+                                                            "value": 1
+                                                        },
+                                                        "> 6": {
+                                                            "attribute": "7",
+                                                            "values": {
+                                                                "<= 1": {
+                                                                    "value": 1
+                                                                },
+                                                                "> 1": {
+                                                                    "attribute": "10",
+                                                                    "values": {
+                                                                        "<= 3": {
+                                                                            "value": 2
+                                                                        },
+                                                                        "> 3": {
+                                                                            "value": 1
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                "A121": {
+                                                    "attribute": "7",
+                                                    "values": {
+                                                        "<= 1": {
+                                                            "attribute": "4",
+                                                            "values": {
+                                                                "<= 1534": {
+                                                                    "value": 2
+                                                                },
+                                                                "> 1534": {
+                                                                    "value": 1
+                                                                }
+                                                            }
+                                                        },
+                                                        "> 1": {
+                                                            "value": 1
+                                                        }
+                                                    }
+                                                },
+                                                "A122": {
+                                                    "value": 1
+                                                }
+                                            }
+                                        },
+                                        "A45": {
+                                            "attribute": "1",
+                                            "values": {
+                                                "<= 12": {
+                                                    "attribute": "1",
+                                                    "values": {
+                                                        "<= 6": {
+                                                            "value": 1
+                                                        },
+                                                        "> 6": {
+                                                            "value": 2
+                                                        }
+                                                    }
+                                                },
+                                                "> 12": {
+                                                    "value": 1
+                                                }
+                                            }
+                                        },
+                                        "A49": {
+                                            "attribute": "8",
+                                            "values": {
+                                                "A94": {
+                                                    "value": 1
+                                                },
+                                                "A93": {
+                                                    "value": 1
+                                                },
+                                                "A92": {
+                                                    "value": 2
+                                                }
+                                            }
+                                        },
+                                        "A42": {
+                                            "attribute": "6",
+                                            "values": {
+                                                "A72": {
+                                                    "attribute": "10",
+                                                    "values": {
+                                                        "<= 1": {
+                                                            "value": 1
+                                                        },
+                                                        "> 1": {
+                                                            "value": 2
+                                                        }
+                                                    }
+                                                },
+                                                "A74": {
+                                                    "value": 1
+                                                },
+                                                "A73": {
+                                                    "attribute": "1",
+                                                    "values": {
+                                                        "<= 9": {
+                                                            "value": 2
+                                                        },
+                                                        "> 9": {
+                                                            "attribute": "8",
+                                                            "values": {
+                                                                "A92": {
+                                                                    "value": 1
+                                                                },
+                                                                "A91": {
+                                                                    "value": 1
+                                                                },
+                                                                "A93": {
+                                                                    "value": 2
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                "A75": {
+                                                    "attribute": "2",
+                                                    "values": {
+                                                        "A33": {
+                                                            "value": 2
+                                                        },
+                                                        "A34": {
+                                                            "value": 1
+                                                        }
+                                                    }
+                                                },
+                                                "A71": {
+                                                    "value": 1
+                                                }
+                                            }
+                                        },
+                                        "A41": {
+                                            "attribute": "1",
+                                            "values": {
+                                                "<= 9": {
+                                                    "value": 2
+                                                },
+                                                "> 9": {
+                                                    "value": 1
+                                                }
+                                            }
+                                        },
+                                        "A46": {
+                                            "attribute": "2",
+                                            "values": {
+                                                "A34": {
+                                                    "value": 2
+                                                },
+                                                "A32": {
+                                                    "value": 1
+                                                }
+                                            }
+                                        },
+                                        "A44": {
+                                            "value": 1
+                                        },
+                                        "A410": {
+                                            "value": 1
+                                        },
+                                        "A48": {
+                                            "value": 1
+                                        }
+                                    }
+                                },
+                                "> 21": {
+                                    "attribute": "3",
+                                    "values": {
+                                        "A43": {
+                                            "attribute": "1",
+                                            "values": {
+                                                "<= 36": {
+                                                    "attribute": "6",
+                                                    "values": {
+                                                        "A75": {
+                                                            "value": 1
+                                                        },
+                                                        "A74": {
+                                                            "value": 1
+                                                        },
+                                                        "A72": {
+                                                            "attribute": "4",
+                                                            "values": {
+                                                                "<= 2039": {
+                                                                    "value": 2
+                                                                },
+                                                                "> 2039": {
+                                                                    "value": 1
+                                                                }
+                                                            }
+                                                        },
+                                                        "A73": {
+                                                            "value": 2
+                                                        }
+                                                    }
+                                                },
+                                                "> 36": {
+                                                    "value": 2
+                                                }
+                                            }
+                                        },
+                                        "A41": {
+                                            "attribute": "4",
+                                            "values": {
+                                                "<= 9283": {
+                                                    "value": 1
+                                                },
+                                                "> 9283": {
+                                                    "value": 2
+                                                }
+                                            }
+                                        },
+                                        "A40": {
+                                            "attribute": "11",
+                                            "values": {
+                                                "A123": {
+                                                    "value": 2
+                                                },
+                                                "A124": {
+                                                    "value": 2
+                                                },
+                                                "A121": {
+                                                    "value": 2
+                                                },
+                                                "A122": {
+                                                    "attribute": "10",
+                                                    "values": {
+                                                        "<= 2": {
+                                                            "value": 1
+                                                        },
+                                                        "> 2": {
+                                                            "value": 2
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "A49": {
+                                            "attribute": "10",
+                                            "values": {
+                                                "<= 1": {
+                                                    "value": 1
+                                                },
+                                                "> 1": {
+                                                    "value": 2
+                                                }
+                                            }
+                                        },
+                                        "A42": {
+                                            "attribute": "8",
+                                            "values": {
+                                                "A94": {
+                                                    "value": 1
+                                                },
+                                                "A92": {
+                                                    "value": 2
+                                                },
+                                                "A91": {
+                                                    "value": 2
+                                                },
+                                                "A93": {
+                                                    "value": 2
+                                                }
+                                            }
+                                        },
+                                        "A410": {
+                                            "value": 2
+                                        },
+                                        "A46": {
+                                            "attribute": "7",
+                                            "values": {
+                                                "<= 3": {
+                                                    "value": 1
+                                                },
+                                                "> 3": {
+                                                    "value": 2
+                                                }
+                                            }
+                                        },
+                                        "A45": {
+                                            "value": 2
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "A62": {
+                            "attribute": "3",
+                            "values": {
+                                "A41": {
+                                    "value": 1
+                                },
+                                "A40": {
+                                    "attribute": "2",
+                                    "values": {
+                                        "A32": {
+                                            "attribute": "12",
+                                            "values": {
+                                                "<= 28": {
+                                                    "value": 2
+                                                },
+                                                "> 28": {
+                                                    "value": 1
+                                                }
+                                            }
+                                        },
+                                        "A34": {
+                                            "value": 1
+                                        },
+                                        "A31": {
+                                            "value": 2
+                                        },
+                                        "A30": {
+                                            "value": 2
+                                        },
+                                        "A33": {
+                                            "attribute": "4",
+                                            "values": {
+                                                "<= 2862": {
+                                                    "value": 1
+                                                },
+                                                "> 2862": {
+                                                    "value": 2
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "A49": {
+                                    "attribute": "2",
+                                    "values": {
+                                        "A32": {
+                                            "attribute": "1",
+                                            "values": {
+                                                "<= 18": {
+                                                    "value": 1
+                                                },
+                                                "> 18": {
+                                                    "value": 2
+                                                }
+                                            }
+                                        },
+                                        "A33": {
+                                            "value": 1
+                                        },
+                                        "A31": {
+                                            "value": 1
+                                        },
+                                        "A30": {
+                                            "value": 2
+                                        }
+                                    }
+                                },
+                                "A43": {
+                                    "attribute": "6",
+                                    "values": {
+                                        "A73": {
+                                            "value": 2
+                                        },
+                                        "A72": {
+                                            "attribute": "7",
+                                            "values": {
+                                                "<= 2": {
+                                                    "value": 1
+                                                },
+                                                "> 2": {
+                                                    "value": 2
+                                                }
+                                            }
+                                        },
+                                        "A74": {
+                                            "value": 1
+                                        }
+                                    }
+                                },
+                                "A42": {
+                                    "attribute": "6",
+                                    "values": {
+                                        "A72": {
+                                            "value": 2
+                                        },
+                                        "A73": {
+                                            "value": 2
+                                        },
+                                        "A75": {
+                                            "value": 1
+                                        }
+                                    }
+                                },
+                                "A410": {
+                                    "value": 1
+                                },
+                                "A46": {
+                                    "value": 1
+                                },
+                                "A45": {
+                                    "value": 1
+                                }
+                            }
+                        },
+                        "A64": {
+                            "attribute": "3",
+                            "values": {
+                                "A49": {
+                                    "value": 1
+                                },
+                                "A40": {
+                                    "value": 1
+                                },
+                                "A41": {
+                                    "value": 1
+                                },
+                                "A42": {
+                                    "value": 1
+                                },
+                                "A43": {
+                                    "value": 2
+                                },
+                                "A46": {
+                                    "value": 2
+                                },
+                                "A45": {
+                                    "value": 2
+                                }
+                            }
+                        },
+                        "A63": {
+                            "attribute": "3",
+                            "values": {
+                                "A43": {
+                                    "attribute": "8",
+                                    "values": {
+                                        "A91": {
+                                            "value": 1
+                                        },
+                                        "A93": {
+                                            "value": 2
+                                        },
+                                        "A94": {
+                                            "value": 1
+                                        },
+                                        "A92": {
+                                            "value": 1
+                                        }
+                                    }
+                                },
+                                "A49": {
+                                    "value": 1
+                                },
+                                "A40": {
+                                    "value": 1
+                                },
+                                "A41": {
+                                    "value": 2
+                                }
+                            }
+                        },
+                        "A65": {
+                            "attribute": "1",
+                            "values": {
+                                "<= 18": {
+                                    "attribute": "3",
+                                    "values": {
+                                        "A43": {
+                                            "attribute": "6",
+                                            "values": {
+                                                "A71": {
+                                                    "value": 2
+                                                },
+                                                "A75": {
+                                                    "value": 1
+                                                },
+                                                "A74": {
+                                                    "value": 1
+                                                },
+                                                "A73": {
+                                                    "value": 2
+                                                },
+                                                "A72": {
+                                                    "value": 1
+                                                }
+                                            }
+                                        },
+                                        "A42": {
+                                            "attribute": "1",
+                                            "values": {
+                                                "<= 9": {
+                                                    "value": 1
+                                                },
+                                                "> 9": {
+                                                    "value": 2
+                                                }
+                                            }
+                                        },
+                                        "A48": {
+                                            "value": 1
+                                        },
+                                        "A46": {
+                                            "value": 1
+                                        },
+                                        "A49": {
+                                            "value": 1
+                                        },
+                                        "A40": {
+                                            "attribute": "4",
+                                            "values": {
+                                                "<= 1042": {
+                                                    "value": 2
+                                                },
+                                                "> 1042": {
+                                                    "value": 1
+                                                }
+                                            }
+                                        },
+                                        "A41": {
+                                            "value": 1
+                                        }
+                                    }
+                                },
+                                "> 18": {
+                                    "value": 1
+                                }
+                            }
+                        }
+                    }
+                },
+                "> 12204": {
+                    "value": 2
+                }
+            }
+        },
+        "A14": {
+            "attribute": "3",
+            "values": {
+                "A46": {
+                    "attribute": "5",
+                    "values": {
+                        "A61": {
+                            "attribute": "13",
+                            "values": {
+                                "A143": {
+                                    "value": 1
+                                },
+                                "A141": {
+                                    "attribute": "4",
+                                    "values": {
+                                        "<= 719": {
+                                            "value": 2
+                                        },
+                                        "> 719": {
+                                            "value": 1
+                                        }
+                                    }
+                                },
+                                "A142": {
+                                    "value": 2
+                                }
+                            }
+                        },
+                        "A65": {
+                            "value": 1
+                        },
+                        "A63": {
+                            "value": 1
+                        },
+                        "A62": {
+                            "attribute": "4",
+                            "values": {
+                                "<= 1532": {
+                                    "value": 1
+                                },
+                                "> 1532": {
+                                    "value": 2
+                                }
+                            }
+                        }
+                    }
+                },
+                "A42": {
+                    "attribute": "8",
+                    "values": {
+                        "A93": {
+                            "attribute": "1",
+                            "values": {
+                                "<= 10": {
+                                    "attribute": "1",
+                                    "values": {
+                                        "<= 9": {
+                                            "value": 1
+                                        },
+                                        "> 9": {
+                                            "value": 2
+                                        }
+                                    }
+                                },
+                                "> 10": {
+                                    "value": 1
+                                }
+                            }
+                        },
+                        "A94": {
+                            "attribute": "1",
+                            "values": {
+                                "<= 10": {
+                                    "value": 1
+                                },
+                                "> 10": {
+                                    "value": 2
+                                }
+                            }
+                        },
+                        "A92": {
+                            "attribute": "16",
+                            "values": {
+                                "A173": {
+                                    "attribute": "6",
+                                    "values": {
+                                        "A72": {
+                                            "attribute": "4",
+                                            "values": {
+                                                "<= 2301": {
+                                                    "attribute": "4",
+                                                    "values": {
+                                                        "<= 1980": {
+                                                            "value": 2
+                                                        },
+                                                        "> 1980": {
+                                                            "value": 1
+                                                        }
+                                                    }
+                                                },
+                                                "> 2301": {
+                                                    "value": 2
+                                                }
+                                            }
+                                        },
+                                        "A74": {
+                                            "attribute": "7",
+                                            "values": {
+                                                "<= 3": {
+                                                    "value": 1
+                                                },
+                                                "> 3": {
+                                                    "value": 2
+                                                }
+                                            }
+                                        },
+                                        "A73": {
+                                            "value": 1
+                                        }
+                                    }
+                                },
+                                "A174": {
+                                    "value": 2
+                                },
+                                "A172": {
+                                    "attribute": "5",
+                                    "values": {
+                                        "A63": {
+                                            "value": 2
+                                        },
+                                        "A61": {
+                                            "value": 1
+                                        },
+                                        "A65": {
+                                            "value": 1
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "A91": {
+                            "value": 1
+                        }
+                    }
+                },
+                "A43": {
+                    "attribute": "12",
+                    "values": {
+                        "<= 22": {
+                            "attribute": "12",
+                            "values": {
+                                "<= 21": {
+                                    "value": 1
+                                },
+                                "> 21": {
+                                    "value": 2
+                                }
+                            }
+                        },
+                        "> 22": {
+                            "attribute": "4",
+                            "values": {
+                                "<= 3595": {
+                                    "attribute": "13",
+                                    "values": {
+                                        "A143": {
+                                            "value": 1
+                                        },
+                                        "A141": {
+                                            "attribute": "5",
+                                            "values": {
+                                                "A63": {
+                                                    "attribute": "4",
+                                                    "values": {
+                                                        "<= 2333": {
+                                                            "value": 1
+                                                        },
+                                                        "> 2333": {
+                                                            "value": 2
+                                                        }
+                                                    }
+                                                },
+                                                "A61": {
+                                                    "value": 1
+                                                },
+                                                "A65": {
+                                                    "value": 2
+                                                },
+                                                "A62": {
+                                                    "value": 1
+                                                }
+                                            }
+                                        },
+                                        "A142": {
+                                            "value": 1
+                                        }
+                                    }
+                                },
+                                "> 3595": {
+                                    "attribute": "4",
+                                    "values": {
+                                        "<= 5943": {
+                                            "attribute": "5",
+                                            "values": {
+                                                "A65": {
+                                                    "attribute": "1",
+                                                    "values": {
+                                                        "<= 24": {
+                                                            "value": 2
+                                                        },
+                                                        "> 24": {
+                                                            "value": 1
+                                                        }
+                                                    }
+                                                },
+                                                "A61": {
+                                                    "attribute": "1",
+                                                    "values": {
+                                                        "<= 30": {
+                                                            "value": 1
+                                                        },
+                                                        "> 30": {
+                                                            "attribute": "4",
+                                                            "values": {
+                                                                "<= 4454": {
+                                                                    "value": 1
+                                                                },
+                                                                "> 4454": {
+                                                                    "value": 2
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                "A62": {
+                                                    "value": 2
+                                                }
+                                            }
+                                        },
+                                        "> 5943": {
+                                            "value": 1
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "A40": {
+                    "attribute": "13",
+                    "values": {
+                        "A143": {
+                            "attribute": "12",
+                            "values": {
+                                "<= 30": {
+                                    "attribute": "6",
+                                    "values": {
+                                        "A72": {
+                                            "value": 1
+                                        },
+                                        "A74": {
+                                            "value": 1
+                                        },
+                                        "A73": {
+                                            "attribute": "8",
+                                            "values": {
+                                                "A94": {
+                                                    "value": 1
+                                                },
+                                                "A93": {
+                                                    "attribute": "10",
+                                                    "values": {
+                                                        "<= 3": {
+                                                            "value": 1
+                                                        },
+                                                        "> 3": {
+                                                            "value": 2
+                                                        }
+                                                    }
+                                                },
+                                                "A92": {
+                                                    "value": 2
+                                                }
+                                            }
+                                        },
+                                        "A75": {
+                                            "value": 2
+                                        }
+                                    }
+                                },
+                                "> 30": {
+                                    "attribute": "12",
+                                    "values": {
+                                        "<= 64": {
+                                            "attribute": "2",
+                                            "values": {
+                                                "A34": {
+                                                    "value": 1
+                                                },
+                                                "A32": {
+                                                    "value": 1
+                                                },
+                                                "A33": {
+                                                    "attribute": "16",
+                                                    "values": {
+                                                        "A173": {
+                                                            "value": 1
+                                                        },
+                                                        "A172": {
+                                                            "value": 2
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "> 64": {
+                                            "value": 2
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "A142": {
+                            "attribute": "1",
+                            "values": {
+                                "<= 6": {
+                                    "value": 1
+                                },
+                                "> 6": {
+                                    "value": 2
+                                }
+                            }
+                        },
+                        "A141": {
+                            "attribute": "5",
+                            "values": {
+                                "A61": {
+                                    "value": 2
+                                },
+                                "A62": {
+                                    "value": 1
+                                },
+                                "A63": {
+                                    "attribute": "1",
+                                    "values": {
+                                        "<= 21": {
+                                            "value": 1
+                                        },
+                                        "> 21": {
+                                            "value": 2
+                                        }
+                                    }
+                                },
+                                "A65": {
+                                    "attribute": "1",
+                                    "values": {
+                                        "<= 21": {
+                                            "value": 2
+                                        },
+                                        "> 21": {
+                                            "value": 1
+                                        }
+                                    }
+                                },
+                                "A64": {
+                                    "value": 1
+                                }
+                            }
+                        }
+                    }
+                },
+                "A49": {
+                    "attribute": "6",
+                    "values": {
+                        "A75": {
+                            "value": 1
+                        },
+                        "A73": {
+                            "attribute": "2",
+                            "values": {
+                                "A32": {
+                                    "attribute": "1",
+                                    "values": {
+                                        "<= 18": {
+                                            "value": 1
+                                        },
+                                        "> 18": {
+                                            "value": 2
+                                        }
+                                    }
+                                },
+                                "A34": {
+                                    "value": 1
+                                },
+                                "A33": {
+                                    "attribute": "8",
+                                    "values": {
+                                        "A93": {
+                                            "value": 1
+                                        },
+                                        "A92": {
+                                            "value": 1
+                                        },
+                                        "A94": {
+                                            "value": 2
+                                        }
+                                    }
+                                },
+                                "A31": {
+                                    "value": 1
+                                },
+                                "A30": {
+                                    "value": 2
+                                }
+                            }
+                        },
+                        "A72": {
+                            "value": 2
+                        },
+                        "A74": {
+                            "value": 1
+                        },
+                        "A71": {
+                            "value": 2
+                        }
+                    }
+                },
+                "A41": {
+                    "attribute": "13",
+                    "values": {
+                        "A143": {
+                            "value": 1
+                        },
+                        "A141": {
+                            "attribute": "16",
+                            "values": {
+                                "A173": {
+                                    "value": 1
+                                },
+                                "A174": {
+                                    "value": 2
+                                },
+                                "A172": {
+                                    "value": 2
+                                }
+                            }
+                        },
+                        "A142": {
+                            "value": 1
+                        }
+                    }
+                },
+                "A45": {
+                    "attribute": "2",
+                    "values": {
+                        "A32": {
+                            "attribute": "5",
+                            "values": {
+                                "A65": {
+                                    "value": 1
+                                },
+                                "A63": {
+                                    "value": 1
+                                },
+                                "A61": {
+                                    "value": 2
+                                }
+                            }
+                        },
+                        "A30": {
+                            "value": 1
+                        },
+                        "A34": {
+                            "value": 1
+                        },
+                        "A33": {
+                            "value": 2
+                        }
+                    }
+                },
+                "A44": {
+                    "value": 1
+                },
+                "A48": {
+                    "value": 1
+                },
+                "A410": {
+                    "value": 1
+                }
+            }
+        },
+        "A13": {
+            "attribute": "11",
+            "values": {
+                "A121": {
+                    "attribute": "7",
+                    "values": {
+                        "<= 3": {
+                            "attribute": "16",
+                            "values": {
+                                "A173": {
+                                    "value": 1
+                                },
+                                "A171": {
+                                    "value": 1
+                                },
+                                "A172": {
+                                    "attribute": "1",
+                                    "values": {
+                                        "<= 4": {
+                                            "value": 1
+                                        },
+                                        "> 4": {
+                                            "value": 2
+                                        }
+                                    }
+                                },
+                                "A174": {
+                                    "value": 1
+                                }
+                            }
+                        },
+                        "> 3": {
+                            "attribute": "2",
+                            "values": {
+                                "A32": {
+                                    "attribute": "1",
+                                    "values": {
+                                        "<= 12": {
+                                            "value": 1
+                                        },
+                                        "> 12": {
+                                            "value": 2
+                                        }
+                                    }
+                                },
+                                "A33": {
+                                    "value": 2
+                                },
+                                "A34": {
+                                    "value": 2
+                                },
+                                "A31": {
+                                    "value": 2
+                                }
+                            }
+                        }
+                    }
+                },
+                "A122": {
+                    "value": 1
+                },
+                "A123": {
+                    "attribute": "6",
+                    "values": {
+                        "A73": {
+                            "attribute": "1",
+                            "values": {
+                                "<= 24": {
+                                    "value": 1
+                                },
+                                "> 24": {
+                                    "attribute": "4",
+                                    "values": {
+                                        "<= 4210": {
+                                            "value": 2
+                                        },
+                                        "> 4210": {
+                                            "value": 1
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "A75": {
+                            "value": 1
+                        },
+                        "A74": {
+                            "value": 1
+                        },
+                        "A72": {
+                            "attribute": "1",
+                            "values": {
+                                "<= 21": {
+                                    "value": 2
+                                },
+                                "> 21": {
+                                    "value": 1
+                                }
+                            }
+                        }
+                    }
+                },
+                "A124": {
+                    "attribute": "4",
+                    "values": {
+                        "<= 1271": {
+                            "attribute": "4",
+                            "values": {
+                                "<= 781": {
+                                    "value": 1
+                                },
+                                "> 781": {
+                                    "value": 2
+                                }
+                            }
+                        },
+                        "> 1271": {
+                            "value": 1
+                        }
+                    }
+                }
+            }
+        },
+        "": {}
+    }
+}
