@@ -54,7 +54,6 @@ exports['tree with definitive numeric attribute'] = function (test) {
     test.equal(typeof tree, 'object');
     test.equal(tree.attribute, 0);
     test.ok(tree.values);
-    console.dir(tree);
     test.ok(tree.values['<= 2']);
     test.equal(tree.values['<= 2'].value, 'class1');
     test.ok(tree.values['> 2']);

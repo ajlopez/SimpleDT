@@ -63,7 +63,6 @@ exports['info subcases with a definitive numeric column'] = function (test) {
     var result = analyzer.infoxval(cases, 1, 0);
 
     test.ok(result);
-    console.dir(result);
     test.equal(Object.keys(result).length, 3);
     test.ok(result[1] >= 0);
     test.ok(result[2] >= 0);
