@@ -52,6 +52,24 @@ exports['info subcases with a numeric column'] = function (test) {
     test.ok(result[1] >= 0);
 };
 
+exports['info subcases with a definitive numeric column'] = function (test) {
+    var cases = [
+        [ 2, 'class1' ],
+        [ 1, 'class1' ],
+        [ 4, 'class2' ],
+        [ 3, 'class2' ]
+    ];
+
+    var result = analyzer.infoxval(cases, 1, 0);
+
+    test.ok(result);
+    console.dir(result);
+    test.equal(Object.keys(result).length, 3);
+    test.ok(result[1] >= 0);
+    test.ok(result[2] >= 0);
+    test.ok(result[3] >= 0);
+};
+
 exports['infox by columns values'] = function (test) {
     var cases = [
         [ 3.5, 'value21', 'class2' ],
