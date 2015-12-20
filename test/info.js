@@ -35,23 +35,21 @@ exports['info subcases'] = function (test) {
     test.ok(result[1] >= 0);
 };
 
-exports['split by column value'] = function (test) {
+exports['info subcases with a numeric column'] = function (test) {
     var cases = [
-        [ 1, 'value21', 'class1' ],
-        [ 1, 'value22', 'class1' ],
-        [ 3, 'value21', 'class2' ],
-        [ 4, 'value22', 'class2' ],
-        [ 4, 'value23', 'class3' ]
+        [ 3.5, 'value21', 'class2' ],
+        [ 1.1, 'value21', 'class1' ],
+        [ 1.1, 'value22', 'class1' ],
+        [ 4.2, 'value23', 'class3' ]
     ];
-    
-    var result = analyzer.splitval(cases, 0, 2);
-    
+
+    var result = analyzer.infox(cases, 2);
+
     test.ok(result);
-    test.ok(Array.isArray(result));
-    test.equal(result.length, 2);
-    
-    sl.all(result[0], function (item) { return item[0] <= 2 });
-    sl.all(result[1], function (item) { return item[0] > 2 });
+    test.equal(Object.keys(result).length, 2);
+    test.ok(result[0].infox >= 0);
+    test.ok(parseFloat(result[0].value) >= 0);
+    test.ok(result[1] >= 0);
 };
 
 exports['infox by columns values'] = function (test) {
