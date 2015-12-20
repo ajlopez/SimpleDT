@@ -54,3 +54,22 @@ exports['split by column value'] = function (test) {
     sl.all(result[1], function (item) { return item[0] > 2 });
 };
 
+exports['infox by columns values'] = function (test) {
+    var cases = [
+        [ 3.5, 'value21', 'class2' ],
+        [ 1.1, 'value21', 'class1' ],
+        [ 1.1, 'value22', 'class1' ],
+        [ 4.2, 'value23', 'class3' ]
+    ];
+    
+    var result = analyzer.infoxval(cases, 2, 0);
+    
+    test.ok(result);
+    test.ok(Array.isArray(result));
+    test.equal(Object.keys(result).length, 2);
+    test.ok(result[1.1]);
+    test.ok(result[3.5]);
+    test.ok(result[1.1] > 0);
+    test.ok(result[3.5] > 0);
+};
+
