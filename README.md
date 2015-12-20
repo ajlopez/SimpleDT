@@ -29,6 +29,10 @@ npm install
 npm test
 ```
 
+## References
+
+- C 4.5 Programs for Machine Learning, J Ross Quinlan (Internal Reference: Lib)
+
 ## Samples
 
 TBD
