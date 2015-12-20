@@ -41,3 +41,22 @@ exports['tree with definitive attribute'] = function (test) {
     test.ok(tree.values.value4);
     test.equal(tree.values.value4.value, 'class2');
 }
+
+exports['tree with definitive numeric attribute'] = function (test) {
+    var tree = simpledt.tree([
+        [ 2, 'class1' ],
+        [ 1, 'class1' ],
+        [ 4, 'class2' ],
+        [ 3, 'class2' ]
+    ], 1);
+    
+    test.ok(tree);
+    test.equal(typeof tree, 'object');
+    test.equal(tree.attribute, 0);
+    test.ok(tree.values);
+    console.dir(tree);
+    test.ok(tree.values['<= 2']);
+    test.equal(tree.values['<= 2'].value, 'class1');
+    test.ok(tree.values['> 2']);
+    test.equal(tree.values['> 2'].value, 'class2');
+}
