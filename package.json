@@ -1,17 +1,29 @@
-{ "name": "simpledt"
-, "description": "Decision Tree"
-, "keywords": [ "decisiontree", "machinelearning", "browser", "nodejs" ]
-, "version": "0.0.1"
-, "author": "Angel 'Java' Lopez <webmaster@ajlopez.com> (http://www.ajlopez.com)"
-, "repository": { "type": "git", "url": "git://github.com/ajlopez/SimpleDT.git" }
-, "main": "./lib/simpledt.js"
-, "engines": { "node": ">= 0.10.0" }
-, "scripts": {
+{
+  "name": "simpledt",
+  "description": "Decision Tree",
+  "keywords": [
+    "decisiontree",
+    "machinelearning",
+    "browser",
+    "nodejs"
+  ],
+  "version": "0.0.1",
+  "author": "Angel 'Java' Lopez <webmaster@ajlopez.com> (http://www.ajlopez.com)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ajlopez/SimpleDT.git"
+  },
+  "main": "./lib/simpledt.js",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
     "test": "simpleunit test"
-  }
-, "dependencies": {
-  }
-, "devDependencies": {
+  },
+  "dependencies": {
+    "simplelists": "0.0.5"
+  },
+  "devDependencies": {
     "simpleunit": "0.0.7"
   }
 }
